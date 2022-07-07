@@ -1,1 +1,26 @@
 
+Project Assessment:
+As a Full Stack Developer, you have to develop a blog for the company where people can post articles and customers can benefit from the content.
+Background of the problem statement:
+As the project is progressing, management has asked you to create a blog page for the company website so that newsletters and other informative articles can be posted by experts for the benefit of the customers.
+You must use the following:
+•	Visual Studio Code
+•	Bootstrap
+•	HTML/CSS
+•	Javascript
+•	GitHub
+Following requirements should be met:
+•	A few of the source codes should be tracked on GitHub repositories. You need to document the tracked files that are ignored during the final push to the GitHub repository.
+•	The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository in the document.
+•	The step-by-step process involved in completing this task should be documented.
+
+
+
+Project Introduction: 
+ Project titled “Simpliblogging” developed in bootstrap framework, HTML5, CSS and Javascript. This project has 3 pages.
+-Home: Homepage display the recent post which has been fetched through JSON by using fetch() method with the help of async wait methodology. I have also implemented fetch method using promise which is commented above.
+JSON(JavaScript Object Notaion) has collection of data having attributes(Title,Author, Content, Publish_date and category),  In the home page,  through the fetch() method, data has been displayed .
+
+Create Blog- Create Blog is another module, under this a form has been designed using Bootsrap& HTML and using javascript “getElementByIDName” method of Document interface added data is displaying as the results in the section.
+
+Login- Another important module is login page, where using user name and password account authentications is getting check using javaScript function.
